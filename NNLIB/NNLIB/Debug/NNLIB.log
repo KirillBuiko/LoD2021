@@ -1,0 +1,18 @@
+﻿  NeuralNetwork.cpp
+D:\Dmitriy\Studing\НГТУ\Хакатончики\EnergoMach\NNLIB\NNLIB\NeuralNetwork.cpp(142,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Dmitriy\Studing\НГТУ\Хакатончики\EnergoMach\NNLIB\NNLIB\NeuralNetwork.cpp(144,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Dmitriy\Studing\НГТУ\Хакатончики\EnergoMach\NNLIB\NNLIB\NeuralNetwork.cpp(154,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Dmitriy\Studing\НГТУ\Хакатончики\EnergoMach\NNLIB\NNLIB\NeuralNetwork.cpp(163,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Dmitriy\Studing\НГТУ\Хакатончики\EnergoMach\NNLIB\NNLIB\NeuralNetwork.cpp(166,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Dmitriy\Studing\НГТУ\Хакатончики\EnergoMach\NNLIB\NNLIB\NeuralNetwork.cpp(176,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Dmitriy\Studing\НГТУ\Хакатончики\EnergoMach\NNLIB\NNLIB\NeuralNetwork.cpp(183,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Dmitriy\Studing\НГТУ\Хакатончики\EnergoMach\NNLIB\NNLIB\NeuralNetwork.cpp(200,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Dmitriy\Studing\НГТУ\Хакатончики\EnergoMach\NNLIB\NNLIB\NeuralNetwork.cpp(214,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Dmitriy\Studing\НГТУ\Хакатончики\EnergoMach\NNLIB\NNLIB\NeuralNetwork.cpp(216,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Dmitriy\Studing\НГТУ\Хакатончики\EnergoMach\NNLIB\NNLIB\NeuralNetwork.cpp(227,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Dmitriy\Studing\НГТУ\Хакатончики\EnergoMach\NNLIB\NNLIB\NeuralNetwork.cpp(244,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Dmitriy\Studing\НГТУ\Хакатончики\EnergoMach\NNLIB\NNLIB\NeuralNetwork.cpp(263,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Dmitriy\Studing\НГТУ\Хакатончики\EnergoMach\NNLIB\NNLIB\NeuralNetwork.cpp(266,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Dmitriy\Studing\НГТУ\Хакатончики\EnergoMach\NNLIB\NNLIB\NeuralNetwork.cpp(269,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Dmitriy\Studing\НГТУ\Хакатончики\EnergoMach\NNLIB\NNLIB\NeuralNetwork.cpp(279,20): warning C4018: <: несоответствие типов со знаком и без знака
+  NNLIB.vcxproj -> D:\Dmitriy\Studing\НГТУ\Хакатончики\EnergoMach\NNLIB\Debug\NNLIB.lib

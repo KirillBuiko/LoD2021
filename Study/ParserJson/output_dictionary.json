@@ -1,0 +1,463 @@
+[
+    {
+        "kbks": [
+            6
+        ],
+        "kpp": "390601001",
+        "livetime": 11,
+        "okved": 27850,
+        "region": "39"
+    },
+    {
+        "kbks": [
+            6
+        ],
+        "kpp": "390601001",
+        "livetime": 11,
+        "okved": 27849,
+        "region": "39"
+    },
+    {
+        "kbks": [
+            6
+        ],
+        "kpp": "741501001",
+        "livetime": 21,
+        "okved": 27859,
+        "region": "74"
+    },
+    {
+        "kbks": [
+            6
+        ],
+        "kpp": "090101001",
+        "livetime": 19,
+        "okved": 0,
+        "region": "09"
+    },
+    {
+        "kbks": [
+            6
+        ],
+        "kpp": "730350001",
+        "livetime": 9,
+        "okved": 26685,
+        "region": "73"
+    },
+    {
+        "kbks": [
+            6
+        ],
+        "kpp": "164601001",
+        "livetime": 10,
+        "okved": 27849,
+        "region": "16"
+    },
+    {
+        "kbks": [
+            5
+        ],
+        "kpp": "770801001",
+        "livetime": 27,
+        "okved": 0,
+        "region": "77"
+    },
+    {
+        "kbks": [
+            5
+        ],
+        "kpp": "440101001",
+        "livetime": 7,
+        "okved": 0,
+        "region": "44"
+    },
+    {
+        "kbks": [
+            5
+        ],
+        "kpp": "997950001",
+        "livetime": 11,
+        "okved": 0,
+        "region": "77"
+    },
+    {
+        "kbks": [
+            5
+        ],
+        "kpp": "997950001",
+        "livetime": 19,
+        "okved": 0,
+        "region": "77"
+    },
+    {
+        "kbks": [
+            5
+        ],
+        "kpp": "770901001",
+        "livetime": 19,
+        "okved": 0,
+        "region": "77"
+    },
+    {
+        "kbks": [
+            5
+        ],
+        "kpp": "770801001",
+        "livetime": 21,
+        "okved": 0,
+        "region": "77"
+    },
+    {
+        "kbks": [
+            5
+        ],
+        "kpp": "783501001",
+        "livetime": 16,
+        "okved": 0,
+        "region": "78"
+    },
+    {
+        "kbks": [
+            5
+        ],
+        "kpp": "771401001",
+        "livetime": 19,
+        "okved": 0,
+        "region": "77"
+    },
+    {
+        "kbks": [
+            5
+        ],
+        "kpp": "631501001",
+        "livetime": 7,
+        "okved": 0,
+        "region": "63"
+    },
+    {
+        "kbks": [
+            67
+        ],
+        "kpp": "770501001",
+        "livetime": 6,
+        "okved": 0,
+        "region": "77"
+    },
+    {
+        "kbks": [
+            14
+        ],
+        "kpp": "325701001",
+        "livetime": 10,
+        "okved": 27821,
+        "region": "32"
+    },
+    {
+        "kbks": [
+            14
+        ],
+        "kpp": "324501001",
+        "livetime": 7,
+        "okved": 0,
+        "region": "32"
+    },
+    {
+        "kbks": [
+            14
+        ],
+        "kpp": "744701001",
+        "livetime": 8,
+        "okved": 27817,
+        "region": "74"
+    },
+    {
+        "kbks": [
+            14
+        ],
+        "kpp": "213001001",
+        "livetime": 15,
+        "okved": 27817,
+        "region": "21"
+    },
+    {
+        "kbks": [
+            14
+        ],
+        "kpp": "695001001",
+        "livetime": 10,
+        "okved": 27830,
+        "region": "69"
+    },
+    {
+        "kbks": [
+            14
+        ],
+        "kpp": "761001001",
+        "livetime": 17,
+        "okved": 27860,
+        "region": "76"
+    },
+    {
+        "kbks": [
+            16
+        ],
+        "kpp": "026401001",
+        "livetime": 28,
+        "okved": 0,
+        "region": "02"
+    },
+    {
+        "kbks": [
+            16
+        ],
+        "kpp": "509950001",
+        "livetime": 17,
+        "okved": 0,
+        "region": "50"
+    },
+    {
+        "kbks": [
+            16,
+            4
+        ],
+        "kpp": "997850001",
+        "livetime": 27,
+        "okved": 27859,
+        "region": "16"
+    },
+    {
+        "kbks": [
+            18
+        ],
+        "kpp": "780501001",
+        "livetime": 26,
+        "okved": 27830,
+        "region": "78"
+    },
+    {
+        "kbks": [
+            18
+        ],
+        "kpp": "616601001",
+        "livetime": 18,
+        "okved": 27786,
+        "region": "61"
+    },
+    {
+        "kbks": [
+            8
+        ],
+        "kpp": "503201001",
+        "livetime": 11,
+        "okved": 0,
+        "region": "50"
+    },
+    {
+        "kbks": [
+            8
+        ],
+        "kpp": "997950001",
+        "livetime": 18,
+        "okved": 0,
+        "region": "77"
+    },
+    {
+        "kbks": [
+            8
+        ],
+        "kpp": "770501001",
+        "livetime": 4,
+        "okved": 0,
+        "region": "77"
+    },
+    {
+        "kbks": [
+            8
+        ],
+        "kpp": "773001001",
+        "livetime": 17,
+        "okved": 0,
+        "region": "77"
+    },
+    {
+        "kbks": [
+            8
+        ],
+        "kpp": "997950001",
+        "livetime": 18,
+        "okved": 0,
+        "region": "77"
+    },
+    {
+        "kbks": [
+            8
+        ],
+        "kpp": "168150001",
+        "livetime": 16,
+        "okved": 0,
+        "region": "16"
+    },
+    {
+        "kbks": [
+            11
+        ],
+        "kpp": "325701001",
+        "livetime": 16,
+        "okved": 26681,
+        "region": "32"
+    },
+    {
+        "kbks": [
+            11
+        ],
+        "kpp": "231201001",
+        "livetime": 18,
+        "okved": 27783,
+        "region": "23"
+    },
+    {
+        "kbks": [
+            57
+        ],
+        "kpp": "770301001",
+        "livetime": 5,
+        "okved": 0,
+        "region": "77"
+    },
+    {
+        "kbks": [
+            3
+        ],
+        "kpp": "402901001",
+        "livetime": 14,
+        "okved": 0,
+        "region": "40"
+    },
+    {
+        "kbks": [
+            3
+        ],
+        "kpp": "997850001",
+        "livetime": 28,
+        "okved": 27855,
+        "region": "63"
+    },
+    {
+        "kbks": [
+            3
+        ],
+        "kpp": "732701001",
+        "livetime": 5,
+        "okved": 27850,
+        "region": "73"
+    },
+    {
+        "kbks": [
+            2
+        ],
+        "kpp": "390601001",
+        "livetime": 11,
+        "okved": 27855,
+        "region": "39"
+    },
+    {
+        "kbks": [
+            1,
+            2
+        ],
+        "kpp": "997450001",
+        "livetime": 3,
+        "okved": 0,
+        "region": "25"
+    },
+    {
+        "kbks": [
+            2
+        ],
+        "kpp": "390601001",
+        "livetime": 11,
+        "okved": 27850,
+        "region": "39"
+    },
+    {
+        "kbks": [
+            2
+        ],
+        "kpp": "632001001",
+        "livetime": 20,
+        "okved": 27850,
+        "region": "63"
+    },
+    {
+        "kbks": [
+            2
+        ],
+        "kpp": "168150001",
+        "livetime": 11,
+        "okved": 27850,
+        "region": "16"
+    },
+    {
+        "kbks": [
+            2
+        ],
+        "kpp": "997850001",
+        "livetime": 11,
+        "okved": 27859,
+        "region": "40"
+    },
+    {
+        "kbks": [
+            34
+        ],
+        "kpp": "770901001",
+        "livetime": 6,
+        "okved": 0,
+        "region": "77"
+    },
+    {
+        "kbks": [
+            0
+        ],
+        "kpp": "525601001",
+        "livetime": 15,
+        "okved": 27870,
+        "region": "52"
+    },
+    {
+        "kbks": [
+            0
+        ],
+        "kpp": "525601001",
+        "livetime": 15,
+        "okved": 0,
+        "region": "52"
+    },
+    {
+        "kbks": [
+            65
+        ],
+        "kpp": "870901001",
+        "livetime": 5,
+        "okved": 0,
+        "region": "87"
+    },
+    {
+        "kbks": [
+            62
+        ],
+        "kpp": "165501001",
+        "livetime": 24,
+        "okved": 0,
+        "region": "16"
+    },
+    {
+        "kbks": [
+            21
+        ],
+        "kpp": "780401001",
+        "livetime": 18,
+        "okved": 27720,
+        "region": "78"
+    }
+]

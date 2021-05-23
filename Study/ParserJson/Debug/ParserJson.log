@@ -1,0 +1,3 @@
+﻿  AMin.cpp
+D:\Dmitriy\Studing\НГТУ\Хакатончики\EnergoMach\ParserJson\ParserJson\AMin.cpp(30,20): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  ParserJson.vcxproj -> D:\Dmitriy\Studing\НГТУ\Хакатончики\EnergoMach\ParserJson\Debug\ParserJson.exe
