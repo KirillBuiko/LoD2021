@@ -94,22 +94,16 @@ namespace LoD2021Frontend
 
             depLabelText.Text = "Код департамента: ";
             depLabelText.AutoSize = true;
-            //depLabelText.Size = new Size(kbksPanel.Size.Width - 100, panelHeight / parts);
-            //depLabelText.Location = new Point(5, 5 + 0 * (panelHeight / parts));
             depLabelText.Font = new Font("Century", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             kbkPanel.Controls.Add(depLabelText);
 
             depLabelValue.Text = kbksDict[id].department_code;
             depLabelValue.AutoSize = true;
-            //depLabelValue.Size = new Size(kbksPanel.Size.Width - 50, panelHeight / parts);
-            //depLabelValue.Location = new Point(5, 5 + 1 * (panelHeight / parts));
             depLabelValue.Font = new Font("Century", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             kbkPanel.Controls.Add(depLabelValue);
 
             descriptLabelText.Text = "Описание меры поддержки:";
             descriptLabelText.AutoSize = true;
-            //descriptLabelText.Size = new Size(kbksPanel.Size.Width - 15, panelHeight / parts );
-            //descriptLabelText.Location = new Point(5, 5 + 2 * (panelHeight / parts));
             descriptLabelText.Font = new Font("Century", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             kbkPanel.Controls.Add(descriptLabelText);
 
@@ -118,21 +112,15 @@ namespace LoD2021Frontend
             descriptLabelValue.ReadOnly = true;
             descriptLabelValue.ScrollBars = RichTextBoxScrollBars.Vertical;
             descriptLabelValue.Size = new Size(700, 80 );
-            //descriptLabelValue.Location = new Point(5, 5 + 3 * (panelHeight / parts));
             descriptLabelValue.Font = new Font("Century", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             kbkPanel.Controls.Add(descriptLabelValue);
 
             kbkLabelText.Text = "КБК меры поддержки:";
-            //kbkLabelText.AutoSize = false;
-            //kbkLabelText.Size = new Size(kbksPanel.Size.Width - 15, panelHeight / parts);
-            //kbkLabelText.Location = new Point(5, 5 + 6 * (panelHeight / parts));
             kbkLabelText.Font = new Font("Century", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             kbkPanel.Controls.Add(kbkLabelText);
 
             kbkLabelValue.Text = kbksDict[id].kbk;
             kbkLabelValue.AutoSize = true;
-            //kbkLabelValue.Size = new Size(kbksPanel.Size.Width - 15, panelHeight / parts);
-            //kbkLabelValue.Location = new Point(5, 5 + 7 * (panelHeight / parts));
             kbkLabelValue.Font = new Font("Century", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             kbkPanel.Controls.Add(kbkLabelValue);
 

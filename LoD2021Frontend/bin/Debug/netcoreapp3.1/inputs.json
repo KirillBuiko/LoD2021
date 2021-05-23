@@ -1,9 +1,8 @@
 [
-	{
-		"kpp": "501020001",
-		"livetime": 11,
-		"okved": 21468,
-		"region": "12",
-		"want_solutions": 5
-	}
+{
+"kpp": "231201001",
+"livetime": 18,
+"okved": 27783,
+"region": "23",
+"want_solutions": 5}
 ]
