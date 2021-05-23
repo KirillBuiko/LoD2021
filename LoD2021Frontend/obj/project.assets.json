@@ -53,11 +53,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\LoD2021Frontend\\LoD2021Frontend.csproj",
+      "projectUniqueName": "D:\\Documents\\GitHub\\LoD2021\\LoD2021Frontend\\LoD2021Frontend.csproj",
       "projectName": "LoD2021Frontend",
-      "projectPath": "C:\\Users\\User\\source\\repos\\LoD2021Frontend\\LoD2021Frontend.csproj",
+      "projectPath": "D:\\Documents\\GitHub\\LoD2021\\LoD2021Frontend\\LoD2021Frontend.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\LoD2021Frontend\\obj\\",
+      "outputPath": "D:\\Documents\\GitHub\\LoD2021\\LoD2021Frontend\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

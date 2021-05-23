@@ -33,7 +33,8 @@ namespace LoD2021Frontend
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.pictureBox2 = new System.Windows.Forms.PictureBox();
             this.label1 = new System.Windows.Forms.Label();
-            this.kbksPanel = new System.Windows.Forms.Panel();
+            this.kbksPanel = new System.Windows.Forms.FlowLayoutPanel();
+            this.backgroundWorker1 = new System.ComponentModel.BackgroundWorker();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             this.SuspendLayout();
@@ -59,28 +60,36 @@ namespace LoD2021Frontend
             // 
             // label1
             // 
-            this.label1.AutoSize = true;
+            this.label1.AutoEllipsis = true;
             this.label1.Location = new System.Drawing.Point(12, 79);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(559, 33);
+            this.label1.Size = new System.Drawing.Size(583, 42);
             this.label1.TabIndex = 4;
             this.label1.Text = "Наиболее подходящие меры поддержки:";
             // 
             // kbksPanel
             // 
             this.kbksPanel.AutoScroll = true;
-            this.kbksPanel.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.kbksPanel.Location = new System.Drawing.Point(12, 124);
+            this.kbksPanel.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
+            this.kbksPanel.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.kbksPanel.FlowDirection = System.Windows.Forms.FlowDirection.TopDown;
+            this.kbksPanel.Location = new System.Drawing.Point(23, 124);
+            this.kbksPanel.Margin = new System.Windows.Forms.Padding(5);
             this.kbksPanel.Name = "kbksPanel";
-            this.kbksPanel.Size = new System.Drawing.Size(815, 469);
+            this.kbksPanel.Padding = new System.Windows.Forms.Padding(10);
+            this.kbksPanel.Size = new System.Drawing.Size(810, 469);
             this.kbksPanel.TabIndex = 5;
+            this.kbksPanel.WrapContents = false;
+            // 
+            // backgroundWorker1
+            // 
+            this.backgroundWorker1.DoWork += new System.ComponentModel.DoWorkEventHandler(this.backgroundWorker1_DoWork);
             // 
             // Result
             // 
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.None;
-            this.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
-            this.ClientSize = new System.Drawing.Size(838, 605);
+            this.ClientSize = new System.Drawing.Size(852, 605);
             this.Controls.Add(this.kbksPanel);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.pictureBox2);
@@ -95,7 +104,6 @@ namespace LoD2021Frontend
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
             this.ResumeLayout(false);
-            this.PerformLayout();
 
         }
 
@@ -104,6 +112,7 @@ namespace LoD2021Frontend
         private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.PictureBox pictureBox2;
         private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.Panel kbksPanel;
+        private System.Windows.Forms.FlowLayoutPanel kbksPanel;
+        private System.ComponentModel.BackgroundWorker backgroundWorker1;
     }
 }
